@@ -17,7 +17,6 @@ class Tv {
 		--channel;
 	}	
 }
-
 class TvTest {
 	public static void main(String[] args) {
 		Tv t;
